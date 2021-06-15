@@ -1,0 +1,28 @@
+body{
+	margin: 0 auto;
+	width: 1024px;
+	background-color: #fcb864;
+}
+header{
+	position: relative;
+	background: linear-gradient(orange, #ffd9d9);
+	height: 200px;
+}
+footer{
+	background: linear-gradient(#ffd9d9, orange);
+	height: 100px;
+	clear: both;
+	padding: 20px;
+}
+.corpo{
+	background-color: #ffd9d9;
+	margin-top: -24px;
+	margin-bottom: -24px;
+	height: 500px;
+}
+
+
+
+img{
+	width: 20%;
+}
