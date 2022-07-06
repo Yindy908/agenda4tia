@@ -3,6 +3,7 @@
 <head>
 	<title>Agenda 4TIA</title>
 	<link rel="stylesheet" type="text/css" href="css/estilo.css">
+	<meta charset="utf-8">
 </head>
 <body>
 	<header>

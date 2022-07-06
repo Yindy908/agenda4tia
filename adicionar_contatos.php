@@ -9,8 +9,8 @@
 	<input type="mail" name="email"><br><br>
 	<label>Endereço:</label><br><br>
 	<input type="text" name="endereco" required="required"><br><br>
-	<!--<label>Data Nascimento:</label><br><br>
-	<input type="date" name="data_nasc"><br><br>-->
+	<label>Data Nascimento:</label><br><br>
+	<input type="date" name="data_nasc"><br><br>
 
 	<input type="submit" name="btCadastrar" value="Cadastrar">
 </form>
